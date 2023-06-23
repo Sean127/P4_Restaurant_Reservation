@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-sean127-p4restaurantres-0drhr5zqpam.ws-eu100.gitpod.io',
-    'https://sean-reservation-app.herokuapp.com/'
+    'sean-reservation-app.herokuapp.com'
     ]
 
 
